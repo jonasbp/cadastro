@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+httpx
+boto3
+python-dotenv  # se quiser usar variáveis de ambiente locais
